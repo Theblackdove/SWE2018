@@ -1,0 +1,8 @@
+[
+  "test_rle.py::test_simple",
+  "test_rle.py::test_advanced",
+  "test_rle.py::test_single",
+  "test_rle.py::test_simple_decoder",
+  "test_rle.py::test_invariant",
+  "test_rle.py::test_hypo"
+]
